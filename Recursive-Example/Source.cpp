@@ -1,3 +1,8 @@
+/*
+Create and array of 20 random numbers between 1-100 and sort only from middle to end index by both iterative and recursive functions.
+Write a C++ code and algorithm for the above problem
+*/
+
 #include "selectSort.h"
 
 int main()
