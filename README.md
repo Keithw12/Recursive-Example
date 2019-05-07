@@ -1,2 +1,2 @@
 # Recursive-Example
-Select Sort iterative and recursive implementation
+Select sort iterative and recursive implementation
